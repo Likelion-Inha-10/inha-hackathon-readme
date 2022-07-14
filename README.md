@@ -92,7 +92,9 @@
 
 - 결과물 제출은 **깃허브 레포지토리를 통하여 제출**하여야 합니다.
 - 팀의 팀장은 **Likelion-Inha-10 Organization내에 Public 레포지토리를 생성하여 협업을 진행**하여 주시기 바랍니다.
-- 레포지토리명은 백엔드의 경우 `inha-hackathon-팀명-be`, 프론트의 경우 `inha-hackathon-팀명-fe` 의 형식으로 설정하며, 각 트랙에 대해 여러 프레임워크의 레포지토리가 요구된다면 `inha-hackathon-팀명-be-django`, `inha-hackathon-팀명-be-spring`, `inha-hackathon-팀명-fe-Angular` 등으로 프레임워크 이름을 명시하여 주십시오.
+- 레포지토리명은 백엔드의 경우 `inha-hackathon-팀명-be`, 프론트의 경우 `inha-hackathon-팀명-fe` 의 형식으로 설정합니다.
+- 각 트랙에 대해 여러 프레임워크의 레포지토리가 요구된다면 `inha-hackathon-팀명-be-django`, `inha-hackathon-팀명-be-spring`, `inha-hackathon-팀명-fe-Angular` 등으로 프레임워크 이름을 명시하여 주십시오.
+- 혹은 `inha-hackathon-팀명-트랙-세부 프로젝트명`형식을 지켜 각 세부 프로젝트 명을 병기하여 주십시오.
 - 모노레포(monorepo)의 사용은 지양하여 주시기 바랍니다.
 - 레포지토리에 **담당 운영진을 초대하는것은 팀 결정에 따라 자유롭게 진행**하시기 바랍니다.
 - 반드시 레포지토리에 `README.md`을 생성하고 활용하시기 바랍니다.
